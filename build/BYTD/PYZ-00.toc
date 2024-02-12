@@ -1,4 +1,4 @@
-('D:\\Python\\BananaYTDownloader\\1.1\\build\\BYTD\\PYZ-00.pyz',
+('D:\\Python\\BananaYTDownloader\\build\\BYTD\\PYZ-00.pyz',
  [('PIL', 'D:\\Python\\Lib\\site-packages\\PIL\\__init__.py', 'PYMODULE'),
   ('PIL.BlpImagePlugin',
    'D:\\Python\\Lib\\site-packages\\PIL\\BlpImagePlugin.py',
