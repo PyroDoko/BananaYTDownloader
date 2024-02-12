@@ -11,5 +11,5 @@ Banana Youtube Downloader is a simple program that will help you download Youtub
 4. Inside the program, **paste** the Youtube link that you want to download in the input box and click **Search**
 5. The program will search and display the Youtube link info such as thumbnail, title, length, views count so you can verify before download.
 6. Click **Download** button and the program will automatically select the highest available resolution and then download the video.
-7. The video will be download into the same folder as the **BYTD.exe** file
-8. **Enjoy**
+7. The video will be download into the same folder as the **BYTD.exe** file.
+8. **Enjoy**.
