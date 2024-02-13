@@ -1,4 +1,4 @@
-# Banana Youtube Downloader V1.5
+# Banana Youtube Downloader V1.6
 
 Banana Youtube Downloader is a simple program that will help you download Youtube video so you can watch it offline or re-upload it to any other platforms that you prefer without the hassle of sign-up or log-in like many online Youtube Downloader.
 
